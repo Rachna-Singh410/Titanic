@@ -1,5 +1,5 @@
 # Titanic
-This project is to predict the number of person how many pepole survived in this disaster. Here I used logistic regression to predict the result. First I read the data set and after that I trained my model and calculate the classification report, confusion matrix and accuracy.
+This project is to predict the number of person how many pepole survived and not survived in this disaster. Here I used logistic regression to predict the result. First I read the data set then cleaned the data, identified the pattern and after that I trained my model and calculate the classification report, confusion matrix and accuracy.
 
 ### Prerequisites
 Some python libraries
